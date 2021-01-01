@@ -11,5 +11,5 @@ def using_pop(string)
 end
 
 def pop_with_args(dog_breeds)
-  thing = string.pop(2)
+  string.pop(2)
 end
