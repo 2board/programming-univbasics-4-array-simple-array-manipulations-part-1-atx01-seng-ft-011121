@@ -14,4 +14,6 @@ def pop_with_args(dog_breeds)
   dog_breeds.pop(2)
 end
 
-def using_shifts()
+def using_shifts(pokemon)
+  pokemon.shift
+end
