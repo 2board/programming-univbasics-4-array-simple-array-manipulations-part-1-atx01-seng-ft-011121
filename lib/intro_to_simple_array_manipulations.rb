@@ -9,3 +9,7 @@ end
 def using_pop(string)
   thing = string.pop
 end
+
+def pop_with_args(dog_breeds)
+  thing = string.pop(2)
+end
